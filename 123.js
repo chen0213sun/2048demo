@@ -1,0 +1,2 @@
+
+setTimeout("generateOneNumber()",210);
