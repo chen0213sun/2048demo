@@ -1,2 +1,0 @@
-
-setTimeout("generateOneNumber()",210);
